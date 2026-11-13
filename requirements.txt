@@ -1,0 +1,3 @@
+# Ứng dụng sử dụng 100% thư viện chuẩn của Python (http.server, sqlite3, urllib, json)
+# File này giúp các nền tảng Cloud (Render, Railway, Heroku) tự động nhận diện môi trường Python.
+
